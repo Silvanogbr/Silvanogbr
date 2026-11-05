@@ -95,6 +95,18 @@ Projeto de site responsivo para apresentar áreas de atuação, equipe e canais 
 
 </div>
 
+## 🐍 Minha atividade
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Silvanogbr/Silvanogbr/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Silvanogbr/Silvanogbr/output/github-snake.svg">
+  <img alt="Animação de uma cobrinha percorrendo meu gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/Silvanogbr/Silvanogbr/output/github-snake.svg">
+</picture>
+
+</div>
+
 ## Contato
 
 <a href="https://github.com/Silvanogbr">
