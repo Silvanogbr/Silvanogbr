@@ -85,16 +85,6 @@ Projeto de site responsivo para apresentar áreas de atuação, equipe e canais 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/Silvanogbr?tab=repositories">📂 Confira meus repositórios</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Silvanogbr?tab=overview">📊 Veja minha atividade no GitHub</a>
-
-</div>
-
 ## 🐍 Minha atividade
 
 <div align="center">
