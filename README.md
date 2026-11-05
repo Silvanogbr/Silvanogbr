@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:0891b2&height=210&section=header&text=Gabriel%20Silvano%20da%20Silva&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Dados%20%7C%20Tecnologia%20Industrial&descAlignY=60&descSize=16" alt="Gabriel Silvano">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:16a34a&height=210&section=header&text=Gabriel%20Silvano%20da%20Silva&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Dados%20%7C%20Tecnologia%20Industrial&descAlignY=60&descSize=16" alt="Gabriel Silvano">
 
-<a href="#sobre-mim"><img src="https://img.shields.io/badge/Sobre%20mim-172554?style=for-the-badge" alt="Sobre mim"></a>
-<a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/Projetos-0891b2?style=for-the-badge" alt="Projetos"></a>
-<a href="#tecnologias"><img src="https://img.shields.io/badge/Tecnologias-334155?style=for-the-badge" alt="Tecnologias"></a>
-<a href="#contato"><img src="https://img.shields.io/badge/Contato-475569?style=for-the-badge" alt="Contato"></a>
+<a href="#sobre-mim"><img src="https://img.shields.io/badge/Sobre%20mim-064e3b?style=for-the-badge" alt="Sobre mim"></a>
+<a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/Projetos-15803d?style=for-the-badge" alt="Projetos"></a>
+<a href="#tecnologias"><img src="https://img.shields.io/badge/Tecnologias-166534?style=for-the-badge" alt="Tecnologias"></a>
+<a href="#contato"><img src="https://img.shields.io/badge/Contato-14532d?style=for-the-badge" alt="Contato"></a>
 
 </div>
 
@@ -113,6 +113,6 @@ Projeto de site responsivo para apresentar áreas de atuação, equipe e canais 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:0891b2&height=120&section=footer&text=Obrigado%20por%20visitar%20meu%20perfil!%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Obrigado por visitar meu perfil">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:16a34a&height=120&section=footer&text=Obrigado%20por%20visitar%20meu%20perfil!%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Obrigado por visitar meu perfil">
 
 </div>
