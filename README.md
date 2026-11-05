@@ -89,9 +89,9 @@ Projeto de site responsivo para apresentar áreas de atuação, equipe e canais 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Silvanogbr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Gabriel">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvanogbr&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+<a href="https://github.com/Silvanogbr?tab=repositories">📂 Confira meus repositórios</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Silvanogbr?tab=overview">📊 Veja minha atividade no GitHub</a>
 
 </div>
 
