@@ -110,5 +110,7 @@ Projeto de site responsivo para apresentar áreas de atuação, equipe e canais 
 </a>
 
 <div align="center">
-  <sub>Obrigado por visitar meu perfil! 👋</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:0891b2&height=120&section=footer&text=Obrigado%20por%20visitar%20meu%20perfil!%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Obrigado por visitar meu perfil">
+
 </div>
