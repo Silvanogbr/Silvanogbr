@@ -102,6 +102,12 @@ Projeto de site responsivo para apresentar áreas de atuação, equipe e canais 
 <a href="https://github.com/Silvanogbr">
   <img src="https://img.shields.io/badge/GitHub-Silvanogbr-181717?style=for-the-badge&logo=github" alt="Perfil no GitHub">
 </a>
+<a href="mailto:gabriel_silva206@estudante.sesisenai.org.br">
+  <img src="https://img.shields.io/badge/E--mail-gabriel__silva206%40estudante.sesisenai.org.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Gabriel">
+</a>
+<a href="https://www.instagram.com/silvanogbr__/">
+  <img src="https://img.shields.io/badge/Instagram-silvanogbr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 <div align="center">
   <sub>Obrigado por visitar meu perfil! 👋</sub>
