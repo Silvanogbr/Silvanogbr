@@ -15,7 +15,9 @@
 
 Olá! Sou **Gabriel Silvano**, de Jaraguá do Sul — SC, e trabalho na **WEG**.
 
-Neste perfil compartilho projetos acadêmicos e práticos que exploram desenvolvimento de software, análise de dados e aplicações para contextos industriais. Gosto de aprender construindo: da preparação dos dados à interface que apresenta o resultado.
+Atualmente curso **Engenharia Elétrica**, faço o curso técnico em **Cibersistemas para Automação** e também estudo **inglês**. Tenho interesse em tecnologia aplicada à indústria e em como software e dados podem ajudar a resolver problemas do dia a dia. Nos meus projetos acadêmicos e práticos, exploro temas como monitoramento, análise de dados, visão computacional e desenvolvimento de aplicações.
+
+Gosto de aprender colocando a mão na massa: entender o problema, testar ideias e construir algo que funcione. Aqui compartilho um pouco desse processo e dos projetos que venho desenvolvendo.
 
 Fora da tecnologia, sou apaixonado por futebol desde pequeno — e torço pelo **Palmeiras** ⚽💚
 
@@ -109,6 +111,9 @@ Projeto de site responsivo para apresentar áreas de atuação, equipe e canais 
 </a>
 <a href="https://www.instagram.com/silvanogbr__/">
   <img src="https://img.shields.io/badge/Instagram-silvanogbr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://wa.me/5547997131024">
+  <img src="https://img.shields.io/badge/WhatsApp-(47)%2099713--1024-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
 <div align="center">
