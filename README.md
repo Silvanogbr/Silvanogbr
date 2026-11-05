@@ -17,6 +17,8 @@ Olá! Sou **Gabriel Silvano**, de Jaraguá do Sul — SC, e trabalho na **WEG**.
 
 Neste perfil compartilho projetos acadêmicos e práticos que exploram desenvolvimento de software, análise de dados e aplicações para contextos industriais. Gosto de aprender construindo: da preparação dos dados à interface que apresenta o resultado.
 
+Fora da tecnologia, sou apaixonado por futebol desde pequeno — e torço pelo **Palmeiras** ⚽💚
+
 ## Projetos em destaque
 
 <details>
